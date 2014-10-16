@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bny:home|Door43 (bny)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bny|d43-bny repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bny/archive/master.zip|d43-bny.zip]]
+
+**Recent Changes**
+{{changes>ns = bny}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bny|Ethnologue data]]
+
